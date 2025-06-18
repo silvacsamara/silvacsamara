@@ -3,6 +3,7 @@
 - 👩🏽‍💻Pronomes: ela/dela
 - 🌱Estudando: HTML | CSS | JavaScript | React | SQL | Java
 - Voluntária no Grupo de Pesquisa Turmalinas Tech - UNIESP
+- Support Engineer Assistant 
 
 ##
 
